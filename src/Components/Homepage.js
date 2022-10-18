@@ -64,7 +64,7 @@ const Homepage = () => {
           }}>
             Delete User
           </Button>
-          <Button variante='contained'>venky</Button>
+          <Button>venky</Button>
         </Stack>
         <Box
           sx={{
