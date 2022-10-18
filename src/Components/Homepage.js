@@ -104,7 +104,7 @@ const Homepage = () => {
               </Table>
             </TableContainer>
           ) : (
-            "NO DATA"
+            "NO DATA Found"
           )}
         </Box>
       </Stack>
